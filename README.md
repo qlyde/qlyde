@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+<a href="mailto:jameskroeger123@gmail.com"><img src="https://img.shields.io/badge/Email-jameskroeger123%40gmail.com-orange"></a>
+<a href="https://linkedin.com/in/jameskroeger" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-James%20Kroeger-informational"></a>
+<a href="https://discordapp.com/users/300610753927577610"><img src="https://img.shields.io/badge/Discord-%23qlyde-7289d9"></a>
+<a href="https://leetcode.com/qlyde/"><img src="https://img.shields.io/badge/LeetCode-qlyde-fbc34a"></a>
+<a href="https://t.me/qqlyde" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40qqlyde-28a8ea"></a>
+
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&count_private=true&show_icons=true&include_all_commits=true&username=qlyde&layout=compact">
 
 <!--
 **qlyde/qlyde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
