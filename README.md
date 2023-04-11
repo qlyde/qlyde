@@ -2,7 +2,7 @@
 
 <a href="mailto:jameskroeger123@gmail.com"><img src="https://img.shields.io/badge/Email-jameskroeger123%40gmail.com-orange"></a>
 <a href="https://linkedin.com/in/jameskroeger" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-James%20Kroeger-informational"></a>
-<a href="https://discordapp.com/users/300610753927577610"><img src="https://img.shields.io/badge/Discord-%23qlyde-7289d9"></a>
+<a href="https://discordapp.com/users/300610753927577610"><img src="https://img.shields.io/badge/Discord-qlyde%234752-7289d9"></a>
 <a href="https://leetcode.com/qlyde/"><img src="https://img.shields.io/badge/LeetCode-qlyde-fbc34a"></a>
 <a href="https://t.me/qqlyde" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40qqlyde-28a8ea"></a>
 
