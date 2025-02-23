@@ -1,1 +1,1 @@
-![](dino.gif)
+![](ls.gif)
